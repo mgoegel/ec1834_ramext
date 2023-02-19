@@ -1,0 +1,259 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2716
+D OTP EPROM 16 KiBit, [Obsolete 2004-01]
+K OTP EPROM 16KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+$CMP 74HC74
+D Dual D Flip-flop, Set & Reset
+K TTL DFF
+F 74xx/74hc_hct74.pdf
+$ENDCMP
+#
+$CMP 74LS257
+D Quad 2 to 1 Multiplexer
+K TTL MUX MUX2
+F http://www.ti.com/lit/gpn/sn74LS257
+$ENDCMP
+#
+$CMP 74LS280
+D Parity Generator/Checker
+K TTL ALU Arith
+F http://www.ti.com/lit/gpn/sn74LS280
+$ENDCMP
+#
+$CMP 74S51
+D 2 DUAL AND-OR-INVERT Gatter
+$ENDCMP
+#
+$CMP 8086
+D 8086 (maximum mode), 16-Bit HMOS Microprocessor, PDIP-40
+K MPRO
+F http://datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf
+$ENDCMP
+#
+$CMP 8087
+D Math Coprocessor for Intel 8086/8088/80186/80188 microprocessors, PDIP-40
+K FPU
+F http://datasheets.chipdb.org/Intel/x86/808x/datashts/8087/205835-007.pdf
+$ENDCMP
+#
+$CMP 8237
+D Programmable DMA Controller, PDIP-40
+K 8237 DMA
+F https://pdos.csail.mit.edu/6.828/2012/readings/hardware/8237A.pdf
+$ENDCMP
+#
+$CMP 8253
+D CHMOS Programmable Interval Timer, PDIP-24
+K Timer Counter
+F http://download.intel.com/design/archives/periphrl/docs/23124406.pdf
+$ENDCMP
+#
+$CMP 8255A
+D Programmable Peripheral Interface, PDIP-40
+K 8255 PPI
+F http://aturing.umcs.maine.edu/~meadow/courses/cos335/Intel8255A.pdf
+$ENDCMP
+#
+$CMP 8259A
+D 8259, Programmable Interrupt Controller, PDIP-28
+K PIC
+F http://pdos.csail.mit.edu/6.828/2005/readings/hardware/8259A.pdf
+$ENDCMP
+#
+$CMP 8284
+D Clock Generator and Driver for i8086/88 Microcontrollers, PDIP-18
+K Clock Generator
+F http://www.cpu-galaxy.at/cpu/ram%20rom%20eprom/other_intel_chips/other_intel-Dateien/D8284A_Datasheet.pdf
+$ENDCMP
+#
+$CMP 8288
+D Bus Controller for Intel 8086/8088/80186/80188 microprocessors, DIP-20
+K Bus Controller
+F http://www.datasheets360.com/pdf/7208679415653955300
+$ENDCMP
+#
+$CMP A302D
+D Schwellspannungsschaltkreis
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/a302.gif
+$ENDCMP
+#
+$CMP D108D
+D 4 AND-Gatter mit je 2 Eingängen
+$ENDCMP
+#
+$CMP D110D
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d110.gif
+$ENDCMP
+#
+$CMP D210D
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d210.gif
+$ENDCMP
+#
+$CMP DL008D
+D 4 AND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP DL010D-D63
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP DL074
+D Dual D Flip-flop, Set & Reset
+K TTL DFF
+F 74xx/74hc_hct74.pdf
+$ENDCMP
+#
+$CMP DL175
+D 4-bit D Flip-Flop, reset
+K TTL REG REG4 DFF
+F http://www.ti.com/lit/gpn/sn74LS175
+$ENDCMP
+#
+$CMP DL295
+D 4-bit bidirectional register, 3-state outputs
+K register
+F http://www.ti.com/lit/gpn/sn74LS295
+$ENDCMP
+#
+$CMP DL374
+D 8-bit Register, 3-state outputs
+K TTL DFF DFF8 REG 3State
+F http://www.ti.com/lit/gpn/sn74LS374
+$ENDCMP
+#
+$CMP DS8205
+D Decoder 3 to 8 active low outputs
+K TTL DECOD DECOD8
+F http://www.ti.com/lit/gpn/sn74LS138
+$ENDCMP
+#
+$CMP DS8216
+D Decoder 3 to 8 active low outputs
+K TTL DECOD DECOD8
+F http://www.ti.com/lit/gpn/sn74LS138
+$ENDCMP
+#
+$CMP DS8282
+D 8-bit Latch 3-state outputs
+K TTL DFF DFF8 LATCH 3State
+F 74xx/74hc573.pdf
+$ENDCMP
+#
+$CMP DS8286D
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
+$CMP DS8286D-D111
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
+$CMP DS8286D-D21
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
+$CMP DS8286D-D23
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
+$CMP DS8286D-D27
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
+$CMP K1810WM86
+D 8086 (maximum mode), 16-Bit HMOS Microprocessor, PDIP-40
+K MPRO
+F http://datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf
+$ENDCMP
+#
+$CMP K1810WM87
+D Math Coprocessor for Intel 8086/8088/80186/80188 microprocessors, PDIP-40
+K FPU
+F http://datasheets.chipdb.org/Intel/x86/808x/datashts/8087/205835-007.pdf
+$ENDCMP
+#
+$CMP KR1810WG88
+D Bus Controller for Intel 8086/8088/80186/80188 microprocessors, DIP-20
+K Bus Controller
+F http://www.datasheets360.com/pdf/7208679415653955300
+$ENDCMP
+#
+$CMP KR531IP5
+D Parity Generator/Checker
+K TTL ALU Arith
+F http://www.ti.com/lit/gpn/sn74LS280
+$ENDCMP
+#
+$CMP KR531KP11
+D Quad 2 to 1 Multiplexer
+K TTL MUX MUX2
+F http://www.ti.com/lit/gpn/sn74LS257
+$ENDCMP
+#
+$CMP KR531LI1
+D 4 AND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP KR580IK57
+D Programmable DMA Controller, PDIP-40
+K 8237 DMA
+F https://pdos.csail.mit.edu/6.828/2012/readings/hardware/8237A.pdf
+$ENDCMP
+#
+$CMP KR580WI53
+D CHMOS Programmable Interval Timer, PDIP-24
+K Timer Counter
+F http://download.intel.com/design/archives/periphrl/docs/23124406.pdf
+$ENDCMP
+#
+$CMP KR580WN59A
+D 8259, Programmable Interrupt Controller, PDIP-28
+K PIC
+F http://pdos.csail.mit.edu/6.828/2005/readings/hardware/8259A.pdf
+$ENDCMP
+#
+$CMP KR580WW55A
+D Programmable Peripheral Interface, PDIP-40
+K 8255 PPI
+F http://aturing.umcs.maine.edu/~meadow/courses/cos335/Intel8255A.pdf
+$ENDCMP
+#
+$CMP U2164
+D DRAM 64K x 1 bit
+$ENDCMP
+#
+$CMP U2764
+D 8K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+K EPROM
+$ENDCMP
+#
+$CMP UC8821
+D EMR Ein Chip Mikrorechner 5 MHz
+K EMR
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjWrbL93N35AhUHyKQKHQKQAG8QFnoECAIQAQ&url=http%3A%2F%2Fdatasheet.datasheetarchive.com%2Foriginals%2Fscans%2FScans-048%2FDSAGER000220.pdf&usg=AOvVaw14YPxmFMP7AZmv7RZvysWI
+$ENDCMP
+#
+$CMP К555ЛА4
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP К555ЛИ1
+D 4 AND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+#End Doc Library

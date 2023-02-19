@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "robotron_ec1834")(type "KiCad")(uri "${KIPRJMOD}/robotron_ec1834.kicad_sym")(options "")(descr ""))
+  (lib (name "RFT_Digitalschaltkreise")(type "KiCad")(uri "F:/20-PCB/RFT-kicad-library/RFT_Digitalschaltkreise.kicad_sym")(options "")(descr ""))
+)
